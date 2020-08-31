@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPI-Provisioning-Sample-Core", "RPI-Provisioning-Sample-Core\RPI-Provisioning-Sample-Core.csproj", "{BE4069E1-A9A3-44AE-94C1-05BF627A4AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4069E1-A9A3-44AE-94C1-05BF627A4AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4069E1-A9A3-44AE-94C1-05BF627A4AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4069E1-A9A3-44AE-94C1-05BF627A4AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4069E1-A9A3-44AE-94C1-05BF627A4AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C428E7CC-8B22-4C78-8757-837DD646B9A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "EdgeDownstreamDevice": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CA_CERTIFICATE_PATH": "C:\\certs\\CACertificates\\certs\\azure-iot-test-only.root.ca.cert.pem",
+        "CA_INTERMEDIATE_CERTIFICATE_PATH": "C:\\certs\\CACertificates\\certs\\azure-iot-test-only.intermediate.cert.pem",
+        "CA_LEAF_CERTIFICATE_PATH": "C:\\certs\\CACertificates\\certs\\new-device.cert.pfx",
+        "CA_LEAF_CERTIFICATE_PASSWORD": "1234",
+        "MESSAGE_COUNT": "10",
+        "DPS_IDSCOPE": "your-dps-scope-here"
+      }
+    }
+  }
+}
